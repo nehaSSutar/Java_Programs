@@ -1,4 +1,6 @@
+
 import java.util.Scanner;
+@SuppressWarnings({"unchecked", "deprecation", "unused"})
 class Bank{
     public static void main(String[] args) 
 { 
